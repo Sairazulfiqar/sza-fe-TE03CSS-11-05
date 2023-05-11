@@ -1,13 +1,17 @@
 body {
-    background-color: bisque;
+    background-color: #f2eee4;
 }
 
 h1 {
-    background-color: rgb(226, 186, 85);
- }
+    background-color: rgb(252, 219, 137); font-size: larger;
+}
+h2 {
+    font-style:italic; 
+}
+.lista {
+    color:rgb(50, 88, 88)}
 
- h2 { font}
-
-#Texto-azul
-
-
+#Texto-azul {color: steelblue;}
+i{
+    color: rgb(66, 126, 126); 
+}
