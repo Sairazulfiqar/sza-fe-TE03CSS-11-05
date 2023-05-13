@@ -1,12 +1,14 @@
 
 body {
-    font-family: 'Lucida Sans Unicode';
+    font-family:'Lucida Sans Unicode';
 }
 
 h1 {
-    color: olivedrab; text-align:center;
+    color: olivedrab; text-align:left;
     float:left
-    border: 4px solid;
+    border 4px solid;
+    letter-spacing: 10px;
+    margin-left: 12%;
 }
 
 h2{
@@ -19,15 +21,14 @@ h3, h4, h5 {
 
 .div{
     border: 5px rgb(172, 171, 171) solid;
-    padding:;
     float: left;
 }
 
 .divbutton {
     float:left;
-    width: 100%;
+    width: 100px;
+    border-radius: 0%;
 }
-
 
 .div1 {
     height: 100 px;
@@ -38,8 +39,12 @@ h3, h4, h5 {
     margin-right: 15px;
 }
 
-.content {
+.divcontent {
     border: grey 1px solid;
+    margin-left: 11%;
+    margin-top: -10%;
+    margin-right: 2%;
+    margin-bottom: 2%;
     padding: 2%;
     float: right;
 }
